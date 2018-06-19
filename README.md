@@ -1,4 +1,4 @@
-# Outer Space Adventures fixed
+# Outer Space Adventures
 #
 To use this app you need to build win standalone
 #
